@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CarMeetUp</string>
+    <string name="app_name">MeetMagix</string>
     <string name="greetings">Hello!</string>
     <string name="type">Model</string>
     <string name="login">Login</string>
