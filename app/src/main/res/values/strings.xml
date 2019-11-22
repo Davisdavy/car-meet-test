@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">CarMeetUp</string>
+    <string name="greetings">Hello!</string>
+    <string name="type">Model</string>
+    <string name="login">Login</string>
+    <string name="logout">SignOut</string>
+    <string name="forgot">forgot password?</string>
 </resources>
